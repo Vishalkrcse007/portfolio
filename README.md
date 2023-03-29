@@ -1,6 +1,6 @@
 #  Personal Portfolio
 
-<h1> gL.N.J.P.I.T CHAPRA,SARAN</h1>
+<h1> L.N.J.P.I.T CHAPRA,SARAN</h1>
     <H2>Myself VISHAL KUMAR</H2>
     <h3>I am a student of Computer Science Engeneering</h3>
     <h4>My Regestration number :- 20105117049 </h4>
